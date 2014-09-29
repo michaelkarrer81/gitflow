@@ -6,3 +6,5 @@ Evenmore text - woot ;)
 HURRAAA
 
 Ein zweites rebase am master hat bisher noch nie funktioniert?!? Und dann warem meist merge konflike oder die commit history der issue branch wurde verdoppelt :(
+
+Auch ein Pull was dann ein merge zur Folge hatte hat da nicht geholfen :(
